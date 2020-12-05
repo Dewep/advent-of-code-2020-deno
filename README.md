@@ -13,5 +13,5 @@ curl -fsSL https://deno.land/x/install/install.sh | sh
 ## Run
 
 ```bash
-$> deno run --allow-read index.ts day-02
+$> deno run --allow-read index.ts 1
 ```
