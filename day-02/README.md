@@ -4,6 +4,9 @@
 
 ```
 $> deno run --allow-read index.ts 2
+Part 1: 434
+Part 2: 509
+day-02: 2ms
 ```
 
 ## Subject
