@@ -5,8 +5,8 @@ async function main () {
 
   const dayNumber = +Deno.args[0]
 
-  if (dayNumber < 1 || dayNumber > 2) {
-    throw new Error('Argument must be a day number between 1 and 2.')
+  if (dayNumber < 1 || dayNumber > 3) {
+    throw new Error('Argument must be a day number between 1 and 3.')
   }
 
   const dayName = `day-${dayNumber < 10 ? '0' : ''}${dayNumber}`
