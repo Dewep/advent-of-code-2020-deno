@@ -3,6 +3,7 @@
     "lib": [
       "ES2018",
       "DOM"
-    ]
+    ],
+    "strictNullChecks": false
   }
 }
